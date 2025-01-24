@@ -1,7 +1,7 @@
 /* <===================TYPOGRAPHY & FONTS===================> */
 
-@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Quicksand&display=swap');
-
+/* @import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Quicksand&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 /* <===================CSS VARIABLES===================> */
 
 :root{
@@ -19,7 +19,8 @@
 *{
     box-sizing: border-box;
     margin: 0;
-    font-family: 'Cinzel', serif;
+    /* font-family: 'Cinzel', serif; */
+    font-family: 'Playfair Display', serif;
     color: #212121;
 }
 html{
